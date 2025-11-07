@@ -26,7 +26,7 @@ const randomWords = [
   "Moldless",
   "Impromptu",
   "Open Loop",
-  "Biradar",
+  "AZAD",
 ];
 
 const wordDisplay = document.getElementById("name");
